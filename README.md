@@ -26,7 +26,8 @@ The code uses two algorithms to find all the Hamiltonian paths of a graph `(if e
 Starting at the begin vertex, the algorithm keeps looking for a path that pass with all the next nodes, it keeps creating bigger sets till it passes by all nodes. 
 
 - Comlexity of this algorith is `O(N^2*2^N)`
-
+## Caveats
+- Held–Karp algorithm is not completely functioning, testing is still work in progress
 ## Referenes
 1. [hamiltonian path tutorial](https://www.hackerearth.com/practice/algorithms/graphs/hamiltonian-path/tutorial/)
 2. [https://networkx.github.io/documentation/networkx-1.10/overview.html](https://networkx.github.io/documentation/networkx-1.10/overview.html)
