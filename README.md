@@ -30,4 +30,3 @@ Starting at the begin vertex, the algorithm keeps looking for a path that pass w
 ## Referenes
 1. [hamiltonian path tutorial](https://www.hackerearth.com/practice/algorithms/graphs/hamiltonian-path/tutorial/)
 2. [https://networkx.github.io/documentation/networkx-1.10/overview.html](https://networkx.github.io/documentation/networkx-1.10/overview.html)
-3. 
